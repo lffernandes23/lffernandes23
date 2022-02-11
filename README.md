@@ -1,12 +1,12 @@
 <div>
-  <h1 align="center">Olá, tudo bem?! Eu sou o <a href="https://www.linkedin.com/in/joaovittormmiguel/"><i>Luiz Fernando!</i></a></h1>
-  <p align="center">Sou estudante de Sistemas de Informação pelo <a href="https://fepi.br/"><i>Centro Universitário de Itajubá</i></a> e amo tecnologia! </p>
+  <h1 align="center">Olá, tudo bem?! Eu sou o <a href="https://www.linkedin.com/in/lffernandes23/"><i>Luiz Fernando!</i></a></h1>
+  <p align="center">Sou estudante de Sistemas de Informação pelo <a href="https://fepi.br/"><i>Centro Universitário de Itajubá</i></a> e a tecnologia se tornou parte da minha vida! </p>
 </div> <br>
 
 <div align="center">
   <a href="https://github.com/lffernandes23">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvmmiguel&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmmiguel&theme=gotham&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lffernandes23&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lffernandes23&theme=gotham&hide_border=false&&layout=compact"/>
   </a>
 </div> <br>
 
