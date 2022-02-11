@@ -1,15 +1,15 @@
 <div>
-  <h1 align="center">Olá, tudo bem?! Eu sou o <a href="https://www.linkedin.com/in/lffernandes23/"><i>Luiz Fernando!</i></a></h1>
+  <h3 align="center">Olá, tudo bem?! Eu sou o <a href="https://www.linkedin.com/in/lffernandes23/"><i>Luiz Fernando!</i></a></h3>
   <p align="center">Sou estudante de Sistemas de Informação pelo <a href="https://fepi.br/"><i>Centro Universitário de Itajubá</i></a> e a tecnologia se tornou parte da minha vida! </p>
 </div> <br>
 
 <div align="center">
   <a href="https://github.com/lffernandes23">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lffernandes23&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lffernandes23&theme=gotham&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lffernandes23&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lffernandes23&theme=radical&hide_border=false&&layout=compact"/>
   </a>
-</div> <br>
-
+</div> 
+<br>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
