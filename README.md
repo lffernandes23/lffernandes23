@@ -1,6 +1,6 @@
 <div>
   <h3 align="center">Olá! Eu sou o <a href="https://www.linkedin.com/in/lffernandes23/"><i>Luiz Fernando!</i></a></h3>
-  <p align="center">Sou estudante de Sistemas de Informação pelo <a href="https://fepi.br/"><i>Centro Universitário de Itajubá</i></a> e a tecnologia se tornou parte da minha vida! </p>
+  <p align="center">Sou estudante de Sistemas de Informação pelo <a href="https://www.cruzeirodosulvirtual.com.br/"><i>Centro Universitário de Itajubá</i></a> e a tecnologia se tornou parte da minha vida! </p>
 </div> <br>
 
 <div align="center">
